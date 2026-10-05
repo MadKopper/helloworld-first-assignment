@@ -12,5 +12,4 @@
 void Task_IWDG_Init(void)
 {
     /* IWDG 已在 CubeMX 的 MX_IWDG_Init() 中初始化 */
-    /* 这里不需要额外操作 */
 }
